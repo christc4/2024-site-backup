@@ -1,0 +1,54 @@
+#!/bin/rc
+
+path=(. /bin)
+
+fn run {
+	lpaf=home$REQUEST_URI
+	rpafs='/'; wd='/'; ifs='/';
+	arg = `{echo $REQUEST_URI}
+
+	if (test -d $lpaf) {
+		lpaf = $lpaf^'i'
+	}
+
+	for (i in $arg) {
+		wd = $wd^$i
+		rpafs = ($rpafs $wd)
+		wd = $wd'/'
+	}
+
+	echo;
+	for (h in $bar) {
+		$$h 
+	}
+	mh $lpaf.md
+}
+
+fn sbar {
+	ls -F home/./$rpafs | sed -e 's,/+\./+,/,g' \
+	-e '/\/i\.(md)$/d' \
+	-e 's/\.(md)$//' -e 's!^home!!' | sort | awk -F/ '
+	function p(x, y, s) { for (i=0; i<x-y; i++) printf s }
+	BEGIN {
+		lNF = 2
+		print " <!DOCTYPE HTML><html><head> <link rel='stylesheet' type='text/css' href='/src/s.css'> <meta charset=UTF-8></head><body><header><h1><img src=/pix/akinzon-logo1.webp></h1></header></nav></header><nav><ul><li><a href=/>home</a><br>" }
+	{
+		sub("/$", "", $0)
+		p(NF, lNF, "<li><ul>"); p(lNF, NF, "</ul>")
+		lNF = NF; fp = $NF
+		printf "<li><a href=\%s\>%s</a>", $0, fp
+	}
+
+	END {
+		p(lNF, 2, "</ul>")
+		print "</ul></nav><article>"
+	}'
+}
+
+fn add {
+	_l = $1^_^$#$1
+	$_l = $*(2-)
+	$1 = ($$1 $_l)
+}
+
+add bar sbar; run
