@@ -1,7 +1,3 @@
-https://0x19.org/posts/2021-11-28.php - rio on openbsd
-https://go.dev/
-http://xahlee.info/kbd/mouse_hand_pain.html - turn on auto click in linux
-https://gocodecloud.com/blog/2016/03/19/writing-a-text-adventure-game-in-go---part-1/
 wherewithall wherewidth
 https://youtu.be/nTCHapo8QFM?si=_pnDGvz4vXux9xz5 - glasses fall down
 
@@ -44,8 +40,6 @@ https://legacy.imagemagick.org/Usage/quantize/
 convert thinker.webp -resize 384 -dither FloydSteinberg -remap pattern:gray50 thinker.webp
 convert phillip.webp -colorspace gray -ordered-dither o8x8 phillip.webp
 
-https://danluu.com/web-bloat/
-
 https://youtu.be/69byq_5xKkE?si=Ugb-equcWmAvcjmW - get sound from this video if not already
 
 Seta's mother supported his artistic ambitions in opposition to his father at what cost to herself one may only guess
@@ -65,7 +59,9 @@ https://pixelart.academy/
 https://www.mprat.org/blog/2011/04/28/playing-zork-on-linux.html - make a guide on this - and give credit to this but give a guide for arch linux users using ftotz.git
 https://xsigsummer.wordpress.com/2023/06/10/exploring-structured-based-ascii-art-the-process-behind-shape-matching/
 https://en.wikipedia.org/wiki/Scott_Adams_(game_designer) - people
+
  https://www.bsdhowto.ch/webserver.html
+
 i finisded loop seven
 prime brain
 https://youtu.be/JPXLpLwEQ_E?si=rkByYsuR7u3Q1uHu 3:10 funny noise
@@ -78,9 +74,7 @@ in preparation for a-levels try figure out what the next years question will be 
 https://helderman.github.io/htpataic/htpataic01.html - making a game in C
 % E-mail: dan.nygren@gmail.com - email this guy about postscript
 neurolinguistic programming
-https://romanzolotarev.com/openbsd/acme-client.html
 only more so
-https://romanzolotarev.com/openbsd/acme-client.html
 gushing over magical girls
 https://www.bsdhowto.ch/webserver.html
 mahou shoujo  magical deestoryer
@@ -88,28 +82,18 @@ read laidback camp yuru camp
 finished undead adventurere and sasaki to pi chan
 forked tongue
 nosedive
-https://achtung.risingthumb.xyz/ACHTUNG_Hardware/ - such a fun site to crawl
-https://0x19.org/posts/2021-06-13.php
-https://0x19.org/portfolio.php
-https://nox.im/posts/2021/0702/openbsd-webserver-with-httpd-and-letsencrypt/
 you can actually chip or chisel your way, using a credit card into the gesso so be warned
 in for a penny in for a pound
 do as i say not do what i did
 on a thinkpad middle button is paste
 long withstanding
-appleskin - window manager
-blossom - file manager?
 make a video on superflous ricing
 understand everything about werc and make a good good youtube video on it
 donate or help with openbsd
-https://eigenstate.org/ - plan9 not dead just resting
 when using the puddle technique air bubbles can be pushed to the edge, but use enough liquid otherwise you get holes and not good coverage
 this is the full elevator pitch
 or so ive herad
-https://github.com/EdoardoLaGreca/9knowledge
-http://www.catb.org/esr/writings/taoup/html/plan9.html
-https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html
-https://edolg.it/blog/
+
 standalone
 shown up the ghosts of the past
 https://youtu.be/GyHII-XqEq0?si=be5tzZPVYNCj2zIL - 0:005 -funny voice
@@ -123,7 +107,6 @@ even looking at this picture wells in my heart, tongue and cheek
 first to the chopping block
 buy mifim a chalk board and roman a trampoline or heeleys
 https://redmine.lighttpd.net/projects/lighttpd/wiki/Mod_ssi - sow akbar
-http://www.senet.us/blog/2011/01/12/werc_install.html - werc
 innermost
 vouchsafe safeguard
 make a note on how we started recycling
@@ -138,7 +121,6 @@ http://www.menuetos.net/index.htm - put this into files its written in assembly 
 https://videos.lukesmith.xyz/w/vtTUdFfZAe3sHbiU66Zx8a - 5 minute mark
 https://pspodcasting.net/dan/blog/2022/images/blit.png
 https://pspodcasting.net/dan/blog/2022/images/unixhistory.png
-http://doc.cat-v.org/bell_labs/blit/ - archive this
 https://www.harrywada.com/ - the best website
 part and parcel of each other
 https://github.com/LukeSmithxyz/based.cooking/issues/943
@@ -207,7 +189,6 @@ put figcaption ongallery
 check 34897@protonmail.com
 eall by the weyside
 https://jacobwsmith.xyz/stories/rucking.html - his rucking article is fascinating email him telling him that
-https://ashpex.eu.org/ - future crush?
 https://sheriffmediocre.xyz/articles/links.html
 they'll be up in arms
 delete avsbq studen t room
@@ -521,6 +502,9 @@ when this guy goes to bed, his slippers must be placed parallel to each other an
 if christianity is the bullwork against judaism then twhy
 
 
-# Population
 
-> _I was a college student when I read Mr. Ehrlich's &ldquo;The Population Bomb&rdquo;, I took it to heart and now have no grandchildren,  but 50 years later the population has increased to eight billion without dire consequences. I was gullible and stupid._ &ndash; Kenneth Emde, _Woodbury, Minn_
+https://www.senet.us/blog/2011/01/12/werc_install.html
+
+wdy for fun
+
+ii watch people from my windows with binoculars liike l ook into other peoples houses at night

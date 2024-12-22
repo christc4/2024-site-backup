@@ -202,9 +202,6 @@ Ergonomics, Emacs, Programming,
 
  Organisations
 
-- [Acorn Land Labs](https://acornlandlabs.com/pages/about)
-    - Bottom-up, sustainability, off-grid living
-
 - [Libreboot](https://libreboot.org)
     - Free BIOS
 
@@ -221,8 +218,6 @@ Ergonomics, Emacs, Programming,
 
 - https://butler-harris.org/
 
-- [dimden.dev](https://dimden.dev/)
-	- to be cherished retro-looking site, beautiful hand-crafted javascript
 - http://nuclear.mutantstargoat.com/ 
 	- operating systems, electronics, hardware hacks
 
@@ -249,11 +244,8 @@ Ergonomics, Emacs, Programming,
 
 - https://www.uninformativ.de/
 
-- https://www.talisman.org
-
 - https://zerocontradictions.net
 
-- danluu.com
 
 - https://lukemuehlhauser.com/
 
@@ -263,8 +255,6 @@ Ergonomics, Emacs, Programming,
 
 http://plan9.stanleylieber.com/
 
-- https://ari.lt/	
-	- https://blog.ari.lt/
 
 
 (https://idlewords.com)

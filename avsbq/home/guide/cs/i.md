@@ -1,6 +1,7 @@
 <div id=t>
 
 - [Core Utils](#core-utils)
+	- [basename](#basename)
 	- [mv](#mv)
 	- [tree](#tree)
 	- [sed](#sed)
@@ -11,7 +12,19 @@
 
 </div>
 
+lot's to do, sorry for the mess
+
+unix 
+
+join()
+cmp()
+
+
 ## <a name=core-utils>Core Utils</a>
+
+### <a name=basename>basenam</a>
+
+basename deletes any prefix ending with the last slash (`/`) character
 
 ### <a name=mv>mv</a>
 
@@ -58,7 +71,7 @@ s/\<str\>/gif/g: Substitute (s) str with gif, where \< and \> ensure that only t
 
 ## Loop
 
-	for file in *.md; do sed -i 's|\.pix/||g' "$file"; done
+`for file in *.md; do sed -i 's|\.pix/||g' "$file"; done`
 
 removes every instance of .pix/
 
@@ -70,6 +83,30 @@ sed 's/\.md//g' filename
 ## <a name=ghostscript>ghostscript</a>
 
 `gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=pngalpha -r300 -sOutputFile=output-PERCENTSIGNd.png input.pdf`
+
+## <a name=git>git</a> 
+
+Create new repository
+
+`git init`
+
+`git add .`
+
+`git commit -m "Commit Message"`
+
+`git branch -M main`
+
+`git remote add origin git@github.com:username/repo-name.git`
+
+`git push -u origin main`
+
+Generate new SSH key
+
+`ssh-keygen -t ed25519 -C "your_email@example.com"`
+
+If you are using a legacy system that doesn't support the Ed25519 algorithm, use:
+
+`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
 ## <a name=imagemagick>imagemagick</a> 
 

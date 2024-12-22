@@ -2,7 +2,7 @@
 
 function eschtml(t) {
 gsub("<", "\\&lt;", t);
-gsub("%", "\\&lt;", t);
+gsub("%", "\\&#37;", t);
  return t; }
 
 function oprint(t) { if(nr == 0) otext = otext t; else otext = otext t; }
@@ -22,10 +22,10 @@ function nextil(t) {
 		}
 		else if(ilcode2)
 			return t1 tag nextil(t2);
-		tag = "<code>";
+		tag = "<pre>";
 		if(ilcode){
 #			t1 = eschtml(t1);
-			tag = "</code>";
+			tag = "</pre>";
 		}
 		ilcode = !ilcode;
 		return t1 tag nextil(t2);
@@ -55,7 +55,7 @@ function nextil(t) {
 		match(title, /\".*\"/)
 		title = " title=\"" substr(title, RSTART + 1, RLENGTH - 2) "\""; } if(match(url, /^<.*>$/)) url = substr(url, 2, RLENGTH - 2)
 #		url = eschtml(url)
-		return t1 "<a href=\""url"\""title">"nextil(linktext)"</a>" nextil(pt2); }
+		return t1 "<a href="url""title">"nextil(linktext)"</a>" nextil(pt2); }
 	}
 
 	 if(match(tag, /[*_]/)){ ntag = tag; if(sub("^" tag, "", t2)){ if(stag[ns] == tag && match(t2, "^" tag)) t2 = tag t2; else ntag = tag tag; } n = length(ntag)
@@ -67,7 +67,7 @@ function nextil(t) {
 
 function inline(t){ ilcode = 0; ilcode2 = 0; ns = 0; return nextil(t); }
 
-function printp(tag){ if(!match(text, /^[ ]*$/)){ text = inline(text); if(tag != "") oprint("<" tag ">" text "</" tag ">"); else oprint(text); } text = ""; }
+function printp(tag){ if(!match(text, /^[ ]*$/)){ text = inline(text);if(tag != "") oprint("<" tag ">" text "</" tag ">"); else oprint(text); } text = ""; }
 
 # function printp(tag){if(match(text,/^[ ]*$/)){text="";return}text=inline(text);if(tag=="p"){oprint("<"tag">"text)}else{oprint("<"tag">"text"</"tag">")};text=""}
 
@@ -138,4 +138,6 @@ nnl > nl {
 
 { text = (text ? text " " : "") $0; }
 
-END{printp(par);for(;nl>0;nl--){if(match(block[nl],/[ou]l/));oprint("</" block[nl] ">");}gsub(/\n/,"",otext);printf(otext);printf("</article></body></html>")}
+END{printp(par);printf(otext);printf("<hr><a href=/src/about.html>About</a> - <a href=/src/contact.html>Contact</a> - <a href=/src/store.html>Store</a>")}
+
+# maybe treat par as you do #h1 so to avoid closing tag

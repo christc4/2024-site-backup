@@ -54,6 +54,10 @@ Christ is the only exit from this world. All other exits - sexual rapture, polit
 
 It's trivial for God to reveal secrets such as new technology or other secrets and cause insane price disturbances and throw the whole world into complete chaos - Terry Davis
 
+If you lived in an edenic world, and every waking moment was picture-perfect what would drive you to write poetry, sculpt or paint.
+
+Look at the level of sculpture in the hadzabe's dolls they make for their kids..
+
 Math is a playground, God gave humans to keep us from being bored
 
 All art is applied mathematics, 

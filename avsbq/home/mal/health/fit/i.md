@@ -21,6 +21,7 @@ Both are incredibly obese and unhealthy...
 	- Train insane or remain the same...
 	- Go hard or go home
 	- Suffer or suffer..
+	- feeel the burn, 
 	- More plates more dates
 
 - Acronyms and other
@@ -32,3 +33,8 @@ Both are incredibly obese and unhealthy...
 <img src=/pix/skeleton-deadlift.avif>
 
 add photo of lowv high test men video of masai tribe next to all the slogans
+
+slaves were banned from particicpaiting in athletic games and working out
+people were also banned from wearing the color purple
+
+Sam Sulek is leaving a trail of future drug addicts in his wake, yet everyone tells me that he’s such a good guy.
