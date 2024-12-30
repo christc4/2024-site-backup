@@ -12,7 +12,7 @@
 
 ##  <a name=agit-prop>Agit Prop</a>
 
-2024/12/06
+2024/12/27
 
 For every solutionist worth their salt there are a dime-a-dozen if not more agitation person(s), they rile up their audiences leaving them in a frenzied state over often inconsequential and sometimes faraway events
 
@@ -33,7 +33,7 @@ Agit-prop lives on from soviet-times, its spiritual descendents being the numero
 
 ### Addendum
 
-Sending hard-coded signals to one's anger receptor through slogans is like a spell? 
+So agitation propaganda really is like casting spells onto the masses, the spells being hard-coded signals to your anger receptors. Rule by rumourville
 
 <hr>
 

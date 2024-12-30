@@ -1,7 +1,22 @@
 # Chinese
 
+## pinyin tone markers
+
+ā á ǎ à a  
+
+ō ó ǒ ò o  
+
+ē é ě è e  
+
+ī í ǐ ì i  
+
+ū ú ǔ ù u  
+
+ǖ ǘ ǚ ǜ ü
+
 ## 1000 most common Chinese Characters 
 
+<details>
 - 的 一 了 是 不 我 他 在 人 有
 - 这 来 个 说 上 你 们 到 地 大
 - 着 子 那 就 也 时 道 中 出 得
@@ -102,3 +117,4 @@
 - 吸 森 拍 灭 握 伊 杰 勒 卷 偷
 - 奔 省 谓 危 付 伦 休 厅 预 迎
 - 罢 恨 博 亡 欲 悲 宣 标 闹 岸
+</details>

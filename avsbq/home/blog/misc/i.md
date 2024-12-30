@@ -66,10 +66,14 @@ All art is applied mathematics,
 
 ## <a name=exercise-is-a-myth>Exercise is a Myth</a>
 
-- Carry baby on your back and go on a hike
-- Find cool rocks and bugs with siblings/kids
+> Carry baby on your back and go on a hike
+> Find cool rocks and bugs with siblings/kids
 
-2024/10/21
+2024/12/27
+
+<details><summary>Liver King flexing with Hadzabe member</summary>
+<img src=/pix/liver-king-flexing-muscles-with-hadzabe-tribe-member.avif>
+</details>
 
 If you are anti exercise most people are equipped with extreme tunnel vision and will immediately shut you down as a couch potato. More often than not, those people are simply 'using' exercise to get out of whatever rut they're in - they're not actually doing anything. There are countless peoples in the exercise annals who had to explain what exercise was, it was so unheard of to people
 
@@ -163,6 +167,8 @@ lord of the rings raw rabbit scene
 
 ## <a name=stagnant-vs-running-water>Stagnant Vs Running Water</a>
 
+28/12/2024
+
 Both water's can be teeming with life.
 
 One is smelly and you will die drinking it. 
@@ -170,3 +176,22 @@ One is smelly and you will die drinking it.
 The other is mineral rich and life springs forth from it
 
 The reason tropes, some hobbieis are viewed as staggnant is the lack off production coming forth from it
+
+From Sherlock Holmes:
+
+"His ignorance was as remarkable as his knowledge. Of contemporary literature, philosophy and politics he appeared to know next to nothing. Upon my quoting Thomas Carlyle, he inquired in the naivest way who he might be and what he had done. My surprise reached a climax, however, when I found incidentally that he was ignorant of the Copernican Theory and of the composition of the Solar System. That any civilized human being in this nineteenth century should not be aware that the earth travelled round the sun appeared to be to me such an extraordinary fact that I could hardly realize it.
+
+“You appear to be astonished,” he said, smiling at my expression of surprise. “Now that I do know it I shall do my best to forget it.”
+
+“To forget it!”
+
+“You see,” he explained, “I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands upon it. Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that that little room has elastic walls and can distend to any extent. Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before. It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones.”
+
+“But the Solar System!” I protested.
+
+“What the deuce is it to me?” he interrupted impatiently; “you say that we go round the sun. If we went round the moon it would not make a pennyworth of difference to me or to my work.”
+
+### Addendum 
+
+Seen from [willschenk.com](https://willschenk.com/fragments/2024/unnecessary_knowledge/)
+

@@ -1,10 +1,17 @@
-# Languages
+# Language
 
-"Despite the constant negative press covfefe"
-Donald J. Trump, @realDonaldTrump
-2017-05-31, 12:06 AM
+`"Despite the constant negative press covfefe"`
+
+`Donald J. Trump, @realDonaldTrump`
+
+`2017-05-31, 12:06 AM`
 
 My favourite language is body language
+
+### _d_
+
+- diglossia
+	-  where two dialects or languages are used by a single language community
 
 ### _h_
 

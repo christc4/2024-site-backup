@@ -16,7 +16,8 @@ fn run {
 		rpafs=($rpafs $wd)
 		wd=$wd'/'
 	}
-
+http_content_type='text/html'
+echo Content-Type: $http_content_type
 	echo;
 	for (h in $bar) { $$h }
 	mh $lpaf.md
@@ -24,7 +25,7 @@ fn run {
 
 
 fn sbar {
-	echo -n '<style>.c{color:#fe9e9f;font-style:italic}a{color:#9e9ffe;text-decoration:none}img{width:150px}nav li ul{padding-left:.5em}body{background-color:#131213;color:#fff;display:flex;flex-wrap:wrap;margin:20 24%;font-family:Arial, sans-serif}article{flex:1}nav{min-width:12em;font-size:12px}ul{list-style: none}#t{flex:2;position:fixed;right:calc(5vw + 10px);width:222px;max-height:80vh;overflow-y:auto;box-sizing:border-box;background-color:#000;z-index:10}</style><meta charset=utf-8><nav>'
+	echo -n '<style>.c{color:red;font-style:italic}a{text-decoration:none}img{width:150px}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 24%}article{flex:1}nav{min-width:12em;font-size:12px}ul{list-style: none}#t{flex:2;position:fixed;right:calc(5vw + 10px);width:222px;max-height:80vh;overflow-y:auto;box-sizing:border-box;z-index:10}</style><meta charset=utf-8><nav>'
 	ls -F home/./$rpafs | sed -e 's,/+\./+,/,g' \
 	-e '/\/i\.(md)$/d' \
 	-e 's/\.(md)$//' -e 's!^home!!' | sort | awk -F/ '

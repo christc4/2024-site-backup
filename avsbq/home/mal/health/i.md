@@ -22,7 +22,7 @@ no im not going to give a bs reason about pork, there is a much different reason
 <tr><td>Margarine, 'spreadable' butter</td><td>Butter&hellip;</td></tr>
 <tr><td>Rice, Bread, Cereal, Pasta</td><td>Seasonal Fruit, Bone broth</td></tr>
 <tr><td>Coffee, tea, 'energy drinks'</td><td>Sleeping more</td></tr>
-<tr><td>Vegetables</td><td>Fruit</td></tr>
+<tr><td>Vegetables</td><td>Fermented Vegetables</td></tr>
 </table>
 
 Well-done muscle meat\*
@@ -48,3 +48,8 @@ free radiclas	 d h
 	- Why eat vegetables when you can eat testicles
 	- Never Eat Shredded Wheat
 		- Also how to teach children the compass points (NESW) :)
+
+https://en.wikipedia.org/wiki/Radioactive_quackery
+http://criticalreading.com/
+
+epidimiology ccohort studies are a joke

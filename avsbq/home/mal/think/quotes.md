@@ -244,3 +244,17 @@ You need only reflect that one of the best ways to get yourself a reputation as 
 I'll still use Emacs even if I have to use the entire AWS east coast to run iit
 
 does it come in a mens version
+
+Grades are the B all or end all
+
+You don't need alternative platforms to talk to your viewers if you create a compound on your property where we can all be cozy together
+
+within kids theres an armsrace to have the best specs on a meaningless manmade computer to play manmade games...
+
+i earned the epiphet mutilator of html and imaes, i sound like a nazi surgeon
+
+You can feed half of Bangladesh with 50p
+
+Happy [INSERT HOLIDAY]! I am happy all days...
+
+The best time to plant a tree was 20 years ago. The second best time is now

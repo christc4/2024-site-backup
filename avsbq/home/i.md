@@ -1,8 +1,13 @@
 # Website of Christos
+
 <img src="/pix/gif/line-birds.gif" style="width: 400px;">
 
-<img src="/pix/judas-tree.jpg" style="width: 200px">
+I'm Christos, the 20yo webmaster responsible for this wood-glued site. This is my trench for when my friends bathe in public fountains. Due to spells of despondency several pages may be half-baked.
 
-<blockquote><i>Saying, "I have sinned betraying innocent blood". And they said, "What is that to us? See thou to that!"</i></blockquote>
+<img src="/pix/judas-tree.avif" style="width: 200px">
 
-Powered by [Cork](//bauherren.ovh/projects/cork/) & [Friends](//bauherren.ovh)
+<blockquote><i>
+Christ is the only exit from this world. All other exits - sexual rapture, political utopia, economic independence - are but blind alleys in which rot the corpses of many who have tried them - Fr. Seraphim Rose
+</i></blockquote>
+
+I have A LOT of pictures I want to post here, of tech, nature and misc. - I haven't even scratched the backlog's surface

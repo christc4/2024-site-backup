@@ -138,6 +138,6 @@ nnl > nl {
 
 { text = (text ? text " " : "") $0; }
 
-END{printp(par);printf(otext);printf("<hr><a href=/src/about.html>About</a> - <a href=/src/contact.html>Contact</a> - <a href=/src/store.html>Store</a>")}
+END{printp(par);printf(otext);printf("<hr><center><a href=/src/contact.html>Contact</a> - <a href=/src/rss.xml>RSS</a> - <a href=/src/store.html>Store</a><br>Powered by <a href=//bauherren.ovh/projects/cork>Cork</a> and <a href=//bauherren.ovh>Friends</a>")}
 
 # maybe treat par as you do #h1 so to avoid closing tag

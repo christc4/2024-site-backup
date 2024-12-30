@@ -1,6 +1,6 @@
 #!/bin/rc
 
-path=(. /bin)
+path=(. /cork/bin)
 
 fn run {
 	lpaf=home$REQUEST_URI

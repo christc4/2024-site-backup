@@ -375,4 +375,6 @@ Conquer men by your gentle kindness, and make zealous men wonder at your goodnes
 
 The Pharisee did not go to the Temple with a healthy soul to boast of his health, but as a man seriously ill with unrighteousness who, in the delirium of his sickness, no longer knows he is ill - St. Nikolai Velimirovich
 
+In time of death, when the heart experiences horrible pain, then all our theoreetical knowledge falls apart and prayer would vanish, so it is necessary to continue praying for many years, then prayer will become a part of  our nature - St. Sophrony of Essex
 
+In other services, we speak with God as if over a telephone, but in the Divine Liturgy we speak with Him face to face. Prayers during Liturgy are more powerful than any other service - St. Seraphim Zvezdinsky
