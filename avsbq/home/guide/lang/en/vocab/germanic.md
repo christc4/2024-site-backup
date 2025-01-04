@@ -34,6 +34,11 @@ todo add def.
 
 - irk, irksome
 
+### K
+
+- knell
+	-  _death knell_
+
 ### M
 
 - mar
@@ -44,7 +49,8 @@ todo add def.
 ### N
 
 -  nether, nethermost
- 
+	- _nethermost regions of the earth_
+
 ### Q
 
 - quench
@@ -68,6 +74,9 @@ todo add def.
 - wane
 	- _With no sign of waning_
 - ward
+- wiles
+- whittle
+	- _whittle away one's life_
 - wrench
 	- _I cannot wrench myself from her_ 
 - writhe
@@ -75,5 +84,18 @@ todo add def.
 
 - wrought
 
-brazen wiles
+### Y
+
+- yore
+	- _we recounted battles of yore_
+- yonder
+	- _yonder a ritual silence_
+
+brazen 
 stalwart
+rend
+smidgen 
+hamper
+https://www.google.com/search?q=what+are+generics+in+programming&oq=what+are+generics++in+progr&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDMwMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://medium.com/@roma.gordeev/discover-the-dark-side-of-go-why-this-popular-language-may-sucks-ddd3ab2e0eff#:~:text=Go's%20minimalist%20design%20strips%20away,complex%20data%20structure%20in%20Go.
+

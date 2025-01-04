@@ -1,13 +1,5 @@
 # Language
 
-`"Despite the constant negative press covfefe"`
-
-`Donald J. Trump, @realDonaldTrump`
-
-`2017-05-31, 12:06 AM`
-
-My favourite language is body language
-
 ### _d_
 
 - diglossia
@@ -28,3 +20,12 @@ My favourite language is body language
 
 - metathesis
 	- the transposition of sounds or syllables in a word or of words in a sentence
+
+
+`"Despite the constant negative press covfefe"`
+
+`Donald J. Trump, @realDonaldTrump`
+
+`2017-05-31, 12:06 AM`
+
+My favourite language is body language

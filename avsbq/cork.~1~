@@ -25,7 +25,7 @@ echo Content-Type: $http_content_type
 
 
 fn sbar {
-	echo -n '<link rel='stylesheet' type='text/css' href='/src/s.css'><meta charset=UTF-8><meta name=viewport content=width=device-width, initial-scale=1><nav><ul><li>'
+	echo -n '<style>.c{color:red}a{text-decoration:none}img{width:150px}nav li ul{padding-left:.5em}body{display:flex;flex-wrap:wrap;margin:20 24%}article{flex:1}nav{min-width:12em;font-size:12px}ul{list-style: none}#t{flex:2;position:fixed;right:calc(5vw + 10px);width:222px;max-height:80vh;overflow-y:auto;box-sizing:border-box;z-index:10}</style><meta charset=utf-8><nav>'
 	ls -F home/./$rpafs | sed -e 's,/+\./+,/,g' \
 	-e '/\/i\.(md)$/d' \
 	-e 's/\.(md)$//' -e 's!^home!!' | sort | awk -F/ '
@@ -37,20 +37,24 @@ fn sbar {
             d = "/"
         sub("/$", "") # Strip trailing / for dirs so NF is consistent 
 
-		p(NF, lNF, "<ul> » <span style=color:red>「</span>"); p(lNF, NF, "<span style=color:red>」</span></ul>")
+        p(NF, lNF, "  ⮧<ul>")
+        p(lNF, NF, "</ul><hr>")
         lNF = NF
+
         bname = $NF d
         path = $0 d
-        # gsub(/[\-_]/, " ", bname)
+        gsub(/[\-_]/, " ", bname)
+
+        # To avoid false matches add trailing / even for plain files to act as delimiter
         pa = path
-    #    gsub(/[^\/]$/, "&/", pa) 
+        gsub(/[^\/]$/, "&/", pa) 
 
         if(index(ENVIRON["req_p"] "/", pa) == 1)
-            printf "<li><a href="path" class=\"c\"><i>"bname"</i></a>"
+            printf "<li><a href="path" class=\"c\">"bname"</a>"
         else 
             printf "<li><a href="path">"bname"</a>"
     }
-    END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
+    END { p(lNF, 2, "</ul>"); printf "</ul></nav><article>" }'
 }
 
 fn add {

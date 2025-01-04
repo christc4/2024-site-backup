@@ -1,0 +1,20 @@
+.c{color:red}
+
+nav li {
+    list-style-position: inside;
+    display: inline;
+}
+nav ul {
+    display: inline;
+  padding: 0em;
+}
+nav ul li a {
+  padding: 0.1em 0ex 0.1em 1ex;
+    display: inline;
+    text-decoration: none;
+color:black;
+    list-style-position: inside;
+    display: inline;
+}
+
+img{width:220px}

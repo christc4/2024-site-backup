@@ -5,3 +5,4 @@ n
 Numskull
 Deadbeat
 Dusuf
+halfwit

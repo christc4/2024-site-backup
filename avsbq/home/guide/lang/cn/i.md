@@ -1,120 +1,271 @@
-# Chinese
+<style>img{width:50px;}img{filter:invert(1);}</style>
 
-## pinyin tone markers
+<div id=t>[A](#A) - [B](#B) - [C](#C) - [D](#D) - [E](#E) - [F](#F) - [G](#G) - [H](#H) - [I](#I) - [J](#J) - [K](#K) - [L](#L) - [M](#M) - [N](#N) - [O](#O) - [P](#P) - [Q](#Q) - [R](#R) - [S](#S) - [T](#T) - [U](#U) - [V](#V) - [W](#W) - [X](#X) - [Y](#Y) - [Z](#Z)</div>
 
-ā á ǎ à a  
+##  <a name=A>A</a>
 
-ō ó ǒ ò o  
+- <ruby>矮<rt>ǎi</rt></ruby>
+	- <ruby>他太矮了看不到围墙外面<rt>tā tài ǎi le kàn bù dào wéi qiáng wài miàn</rt></ruby>
+	- <ruby>矮人们是伟大的铁匠<rt>ǎi rén men shì wěi dà de tiě jiàng</rt></ruby>
+- <ruby>安静<rt>ānjìng</rt></ruby>
+	- <ruby>保持安静<rt>bǎochí ānjìng</rt></ruby>
+	- <ruby>这餐厅很安静让我安静地工作<rt>zhè cāntīng hěn ānjìng ràng wǒ ānjìng de gōngzuò</rt></ruby>
+	- 这餐厅很安静让我不被打扰地工作
+	- <ruby>我只想一个人安安静静地生活<rt>wǒ zhǐ xiǎng yīgè rén ānānjìngjìng de shēnghuó</rt></ruby>
+	- <ruby>这儿有没有比较安静的地方我可以学习的？<rt>zhèr yǒu méiyǒu bǐjiào ānjìng de dìfang wǒ kěyǐ xuéxí de?</rt></ruby>
+- <ruby>安慰<rt>ān wèi</rt></ruby>
+	- <ruby>他想安慰她,却没想到反而使他更伤心<rt>tā xiǎng ān wèi tā, què méi xiǎng dào fǎn ér shǐ tā gèng shāng xīn</rt></ruby>
+		- <ruby>却<rt>què</rt></ruby> - but; yet
+		- <ruby>没想到<rt>méi xiǎng dào</rt></ruby> - didn't expect
+		- <ruby>反而<rt>fǎn ér</rt></ruby> - instead contrary
+		- <ruby>使<rt>shǐ</rt></ruby> - to make to cause
+		- <ruby>更<rt>gèng</rt></ruby> - more even more
+	- <ruby>这几天她心情不好，你要好好安慰她一下<rt>zhè jǐ tiān tā xīn qíng bù hǎo, nǐ yào hǎo hǎo ān wèi tā yī xià</rt></ruby>
+	- <ruby>我妈妈很快就安慰了我<rt>wǒ mā mā hěn kuài jiù ān wèi le wǒ</rt></ruby>
+- <ruby>安装<rt>ān zhuāng</rt></ruby> - install; mount
+	- <ruby>请安装linux<rt>qǐng àn zhuāng linux</rt></ruby>
+	- <ruby>他们在办公室安装了一台自动贩卖机<rt>tāmen zài bàngōngshì ānzhuāngle yī tái zìdòng fànmàijī</rt></ruby>
+		- <ruby>自动<rt>zìdòng</rt></ruby> - automatic
+		- <ruby>贩卖机<rt>fànmàijī</rt></ruby> - vending machine
 
-ē é ě è e  
 
-ī í ǐ ì i  
+##  <a name=B>B</a>
 
-ū ú ǔ ù u  
+- <ruby>班<rt>bān</rt></ruby> - team, class, squad, work shift, ranking</h2>
+	- <ruby>今晚谁上班<rt>jīn wǎn shéi shàngbān</rt></ruby>
+		- <ruby>上班<rt>shàngbān</rt></ruby> - go to work
+	- <ruby>你上班迟到了<rt>nǐ shàngbān chídào le</rt></ruby>
+	        - <ruby>迟到<rt>chídào</rt></ruby> - late
+	- <ruby>你几时下班?<rt>nǐ jǐshí xiàbān?</rt></ruby>
+	        - <ruby>下班<rt>xiàbān</rt></ruby> - finish work
+- <ruby>搬<rt>bān</rt></ruby> - move, relocate, move (sth heavy/bulky) shift</h2>
+	- <ruby>他搬了家<rt>tā bān le jiā</rt></ruby>
+	- <ruby>我是昨天搬来的<rt>wǒ shì zuótiān bān lái de</rt></ruby>
+	- <ruby>我下个月要搬家了<rt>wǒ xià gè yuè yào bān jiā le</rt></ruby>
+	- <ruby>他搬到了我家附近<rt>tā bān dào le wǒ jiā fùjìn</rt></ruby>
+- <ruby>办法<rt>bàn fǎ</rt></ruby>
+	- <ruby></ruby>
+		- <ruby>没办法<rt>méi bànfǎ</rt></ruby>
+			- <ruby>今天太忙了，中午没办法出去吃饭<rt>jīntiān tài máng le, zhōngwǔ méi bànfǎ chūqù chīfàn</rt></ruby>
+- <ruby>饱<rt>bǎo</rt></ruby> - full
+	- <ruby>我已经吃饱了，谢谢<rt>wǒ yǐjīng chībǎo le, xièxiè</rt></ruby>
+	- <ruby>包括<rt>bāokuò</rt></ruby> - include
+		- <ruby>我还包括了一些额外的纸张<rt>wǒ hái bāokuòle yīxiē éwài de zhǐzhāng</rt></ruby>
+			- <ruby>额外<rt>éwài</rt></ruby> - extra
+			- <ruby>纸张<rt>zhǐzhāng</rt></ruby> - paper
+		- <ruby>ubuntu包括的软件很多<rt>bāokuò de ruǎnjiàn hěnduō</rt></ruby>
+			- <ruby>软件<rt>ruǎnjiàn</rt></ruby> - software
+- <ruby>帮忙<rt>bāng máng</rt></ruby>
+	- <ruby>明天如果你有空的话可以过来帮忙<rt>míng tiān rú guǒ nǐ yǒu kōng de huà kě yǐ guò lái bāng máng</rt></ruby>
+- <ruby>包包<rt>bāo</rt></ruby></h2>
+	- <ruby>那个包包看起来好贵<rt>nàgè bāobāo kànqǐlái hǎo guì</rt></ruby>
 
-ǖ ǘ ǚ ǜ ü
 
-## 1000 most common Chinese Characters 
+	
+##  <a name=C>C</a>
 
-<details>
-- 的 一 了 是 不 我 他 在 人 有
-- 这 来 个 说 上 你 们 到 地 大
-- 着 子 那 就 也 时 道 中 出 得
-- 为 里 下 她 要 么 去 可 以 过
-- 和 看 之 的 然 后 会 自 没 小
-- 好 生 天 而 起 对 能 还 事 想
-- 都 心 只 家 面 样 把 国 多 又
-- 于 头 年 手 发 如 什 开 前 当
-- 所 无 知 老 但 见 长 已 军 从
-- 方 声 儿 回 意 作 话 两 点 现
-- 很 成 身 情 十 用 些 走 经 同
-- 进 动 己 三 行 种 向 日 明 女
-- 正 问 此 学 太 打 间 分 因 给
-- 本 眼 定 二 气 力 被 门 真 法
-- 外 听 实 其 高 先 几 笑 再 主
-- 将 山 战 才 口 文 最 部 第 它
-- 西 与 全 白 者 便 相 住 公 使
-- 东 等 边 信 像 斯 机 光 次 感
-- 神 却 死 理 名 重 四 做 别 叫
-- 王 并 水 月 果 何 位 怎 马 常
-- 觉 海 张 少 处 亲 安 特 美 呢
-- 色 原 直 望 命 由 候 吧 让 应
-- 尔 难 关 许 车 平 师 民 夫 书
-- 新 接 吗 路 利 世 比 放 活 快
-- 总 立 队 更 花 爱 清 五 内 金
-- 带 工 风 克 任 至 指 往 入 空
-- 德 吃 表 连 解 教 思 飞 物 电
-- 受 今 完 林 干 代 告 兵 加 认
-- 通 找 远 非 性 脸 体 轻 记 目
-- 令 变 似 反 南 场 跟 必 石 拉
-- 士 报 李 火 且 满 该 孩 字 红
-- 象 即 结 言 员 房 件 万 条 提
-- 写 或 坐 北 早 失 离 步 陈 乎
-- 请 转 近 切 黑 深 城 办 倒 各
-- 父 传 音 站 官 半 男 击 合 阿
-- 英 决 怕 杀 未 形 及 算 青 黄
-- 落 刚 百 论 谁 突 交 团 度 义
-- 罗 始 强 紧 敌 八 母 钱 极 片
-- 化 流 管 惊 每 题 晚 虽 政 兴
-- 答 司 妈 夜 越 啊 奇 达 谈 武
-- 友 数 领 朝 保 服 曾 拿 则 哪
-- 格 尽 根 急 语 容 喜 求 衣 留
-- 双 影 刻 制 随 冷 九 苦 量 备
-- 布 照 周 故 准 客 船 江 系 姐
-- 争 功 怪 星 断 句 龙 竟 视 界
-- 讲 取 古 六 静 底 精 七 河 久
-- 绝 阳 识 哈 台 确 息 期 整 伤
-- 忙 娘 终 剑 送 计 愿 欢 微 您
-- 沉 装 敢 云 脚 消 若 复 收 千
-- 木 乐 毛 华 集 树 弟 皇 响 希
-- 诉 号 巴 穿 线 汉 攻 呀 警 派
-- 刘 酒 雷 停 史 阵 错 建 足 显
-- 丽 另 包 势 破 亮 首 志 观 病
-- 热 跑 业 治 田 冲 运 约 暗 待
-- 共 院 仍 区 害 元 哥 围 屋 胡
-- 产 室 调 类 细 议 爷 注 易 务
-- 众 帝 市 摇 乱 密 姑 斗 除 式
-- 示 睛 楼 造 朋 社 持 慢 般 皮
-- 京 况 块 忽 脑 校 甚 查 土 怀
-- 福 单 联 赶 背 统 喝 疑 支 血
-- 饭 灵 够 章 群 威 举 兰 游 器
-- 察 嘴 痛 铁 掉 宝 历 改 推 枪
-- 念 参 术 帮 党 据 品 须 居 称
-- 旁 退 梦 科 岁 低 严 引 吉 睡
-- 爸 呼 追 局 露 维 苏 证 村 挥
-- 独 节 谢 香 亚 波 角 案 读 图
-- 左 掌 假 跳 究 楚 余 鬼 钟 座
-- 礼 展 玉 肯 既 止 守 广 考 恩
-- 异 料 段 尼 画 续 米 草 胜 存
-- 唐 医 程 弹 烟 商 顾 招 宗 堂
-- 野 初 府 激 雨 尚 渐 诗 顿 伯
-- 孙 际 沙 雪 板 闻 导 致 护 春
-- 态 基 设 耳 简 婚 幸 味 右 买
-- 演 权 卡 继 依 恶 庄 炮 亦 虎
-- 州 刀 球 需 兄 闪 笔 否 烈 玩
-- 啦 逃 排 仅 弄 具 散 默 景 顶
-- 郑 洋 丝 卫 速 侠 差 贵 君 习
-- 妇 助 恐 救 湖 莫 窗 险 顺 封
-- 佛 委 旧 印 伙 妹 副 宫 洞 永
-- 罪 松 责 组 防 艺 营 班 试 鲁
-- 宋 靠 索 灯 介 翻 喊 纪 秘 妻
-- 纸 银 略 充 戏 担 某 杨 射 魔
-- 遇 鱼 陆 级 坏 忘 乡 鲜 哭 费
-- 抓 叶 醒 族 纳 床 咱 桌 境 列
-- 午 振 抱 专 毫 店 街 怒 托 剧
-- 置 秋 藏 赵 划 普 岛 较 承 脱
-- 革 忍 伸 份 免 齐 抗 猛 园 临
-- 犯 食 架 选 歌 按 败 良 隐 养
-- 属 洛 朱 狂 修 坚 压 寻 旅 谋
-- 温 探 资 端 投 泪 阴 换 药 麻
-- 施 丈 冰 雄 著 绿 职 负 短 模
-- 荣 遗 农 叹 川 毒 吴 蒋 卖 范
-- 禁 杂 富 秀 县 祖 梅 谷 凡 刺
-- 登 蓝 奶 缓 姓 牛 价 规 篇 劳
-- 质 婆 仙 馆 摆 舞 层 狗 占 墙
-- 善 熟 验 肉 臣 状 呆 圣 懂 袋
-- 唱 值 迷 替 归 巨 讨 毕 批 镇
-- 吸 森 拍 灭 握 伊 杰 勒 卷 偷
-- 奔 省 谓 危 付 伦 休 厅 预 迎
-- 罢 恨 博 亡 欲 悲 宣 标 闹 岸
-</details>
+- <ruby>重<rt>chóng</rt></ruby>
+	- <ruby>你可以重试<rt>nǐ kěyǐ chóng shì</rt></ruby>
+		- <ruby>
+	- <ruby>我们要重做这个项目<rt>wǒmen yào chóngzuò zhège xiàngmù</rt></ruby>
+	- <ruby>他重申了他的观点<rt>tā chóngshēn le tā de guāndiǎn</rt></ruby>
+		- <ruby>重申<rt>chóngshēn</rt></ruby> - reaffirm; reiterate
+	- <ruby>他们决定重启这个计划<rt>tāmen juédìng chóngqǐ zhège jìhuà</rt></ruby>
+		- <ruby>决定<rt>juédìng</rt></ruby> - to decide (to do something) 
+		- <ruby>重启<rt>chóngqǐ</rt></ruby> - restart (machine, project)
+		- <ruby>计划<rt>jìhuà</rt></ruby> - project
+- <ruby>除了<rt>chúle</rt></ruby>
+	- <ruby>除了英语，我也会说法语和西班牙语<rt>chúle yīngyǔ, wǒ yě huì shuō fǎyǔ hé xībānyáyǔ</rt></ruby>
+- 出现
+	- 自从她出现的那一天起，我的生活就不再一样了
+- <ruby>从来没有<rt>cóng lái méi yǒu</rt></ruby> - there has never been; has never had; (before a verb) has never
+	- <ruby>我希望我从来没有学过那些事情<rt>wǒ xī wàng wǒ cóng lái méi yǒu xué guò nà xiē shì qing</rt></ruby>
+
+##  <a name=f>f</a>
+
+- <ruby>方便<rt>fāngbiàn</rt></ruby>
+	- <ruby>这个手机非常方便<rt>zhè ge shǒu jī fēi cháng fāng biàn</rt></ruby>
+
+
+##  <a name=j>j</a>
+
+- <ruby>进<rt>jìn</rt></ruby>
+	- <ruby>我进了教室<rt><wǒ jìn le jiàoshì</rt></ruby>
+	- <ruby>他正在进食<rt>tā zhèngzài jìn shí</rt></ruby>
+		- <ruby>进食<rt>jìn shí</rt></ruby> - to eat one's meal
+	- <ruby>你可以进来<rt>nǐ kěyǐ jìnlái</rt></ruby>
+	- <ruby>我们要进步<rt>wǒmen yào jìnbù</rt></ruby>
+		- <ruby>进步<rt>jìnbù</rt></ruby>
+
+- 建议
+
+
+- 结束
+	- 你所有的烦恼都会结束
+
+##  <a name='l'>l</a>
+
+- 恋人
+	- 两个恋人发誓永远相爱
+	- 恋爱使人盲目
+- <ruby>练习<rt>liàn xí</rt></ruby>
+	- <ruby>他每天联系中文<rt>tā měi tiān liàn xí zhōng wén</rt></ruby>
+
+##  <a name=M>M</a>
+
+- <ruby>麻烦<rt>má fan</rt></ruby> - trouble; inconvenience; annoying
+	- <ruby>真是麻烦<rt>zhēn shì má fan</rt></ruby>
+- 梦见
+	- 你梦见过我妈
+	- 我常梦见你。我经常梦见她。我在梦里见你。
+	- 我依然会梦见德国
+	- 我做梦也没想到会在这里见到你。
+
+## <a name=Q>Q</a>
+
+- <ruby>起床<rt>qǐ chuáng</rt></ruby>
+	- <ruby>他们已经起床了<rt>tāmen yǐjīng qǐchuáng le</rt></ruby>
+	- <ruby>上课了快点起床吧<rt>shàngkè le kuàidiǎn qǐchuáng ba</rt></ruby>
+	- <ruby>我可以晚一点起床<rt>wǒ kěyǐ wǎn yīdiǎn qǐchuáng</rt></ruby>
+- <ruby>企业<rt>qǐ yè</rt></ruby>
+	- <ruby>这是一家很成功的企业<rt>zhè shì yī jiā hěn chéng gōng de qǐ yè</rt></ruby>
+		- <ruby>成功<rt>chéng gōng</rt></ruby>
+- <ruby>牵头<rt>qián tóu</rt></ruby>
+	- <ruby>今天站在这个镜子前头<rt>jīn tiān zhàn zài zhè ge jìng zi qián tóu</rt></ruby>
+		- <ruby>站在<rt>zhàn zài</rt></ruby> - stand in
+		- <ruby>镜子<rt>jìng zi</rt></ruby> - lens/mirror
+- <ruby>强壮<rt>qiángzhuàng</rt></ruby> - strong
+	- <ruby>每个男人都想要强壮<rt>Měi gè nánrén dōu xiǎng yào qiángzhuàng</rt></ruby>
+	- <ruby>变得强壮很容易，保持力量才是困难的部分<rt>biàndé qiángzhuàng hěn róngyì，bǎochí lìliàng cái shì kùnnán de bùfēn</rt></ruby>
+		- <ruby>容易<rt>róngyì</rt></ruby> - easy
+		- <ruby>力量<rt>lìliàng</rt></ruby> - strength
+		- <ruby>部分<rt>bùfēn</rt></ruby> - part
+	- <ruby>你打算变得强壮是为了吸引女性或者是想照顾好自己的身体<rt>nǐ dǎsuàn biàndé qiángzhuàng shì wèile xīyǐn nǚxìng huòzhě shì xiǎng zhàogù hǎo zìjǐ de shēntǐ</rt></ruby>
+		- <ruby>打算<rt>dǎsuàn</rt></ruby> - intend
+		- <ruby>为了<rt>wèile</rt></ruby> - for the purpose of
+	-  <ruby>只需记住，真正的强壮需要保养<rt>zhǐ xū jìzhù，zhēnzhèng de qiángzhuàng xūyào bǎoyǎng</rt></ruby>
+- <ruby>区别<rt>qū bié</rt></ruby>
+	- <ruby>这两个东西有什么区别<rt>zhè liǎng gè dōngxi yǒu shé me qūbié?</rt></ruby>
+	- <ruby>我看不出它们的区别<rt>wǒ kàn bù chū tāmen de qūbié</rt></ruby>
+	- <ruby>学习的态度会造成很大的区别<rt>xuéxí de tàidù huì zàochéng hěn dà de qūbié</rt></ruby>
+	- <ruby>你能区别这两种颜色吗<rt>nǐ néng qūbié zhè liǎng zhǒng yánsè ma</rt></ruby>
+	- <ruby>文化上的区别很有意思<rt>wénhuà shàng de qūbié hěn yǒu yìsi</rt></ruby>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##  <a name=s>s</a>
+
+- <ruby>试图<rt>shìtú</rt></ruby>
+	- <ruby>我就算试图忘记她的脸也做不到<rt>wǒ jiù suàn shìtú wàngjì tā de liǎn yě zuò bù dào</rt></ruby>
+- <ruby>算了<rt>suàn le</rt></ruby>
+	- <ruby>算了没办法<rt>suàn le méi bàn fǎ</rt></ruby>
+
+##  <a name='t'>t</a>
+
+- 天真
+	- 那时候我太天真了
+
+## <a name=y>y</a>
+
+- <ruby>以后<rt>yǐ hòu</rt></ruby>
+	- <ruby>我吃饭以后去看电影<rt>wǒ chī fàn yǐ hòu qù kàn diàn yǐng</rt></ruby>
+
+### 懂
+
+我不懂
+
+ 我不太明白, i don't quite understand 你再说什么, what are you saying? 请在说一遍, please say it again 解释一下，好吗, could you explain?
+
+可以�说，建他们的人很努力 - you can say, the people who built them were super hard-working. 我觉得特别有压力 - i feel a lot of pressure
+
+讨论这个话题。结婚不结婚，相亲 - talk to me about the same topic: marriage, matchmakers
+
+是金钱的交易，因为特别是在乡下 - it's a deal based on money, especially in the countryside
+
+说的难听一点啊，我觉得是交易 - honestly speaking, i feel it's a business deal!
+
+对于我来说，我觉得， 啊！ 他可笑了！
+
+我觉得非常，啊～非常可悲吧 - i feel this situation is really quite sad
+
+more stuff
+|-
+你吃饭了吗 - have you had a meal?
+
+这个子怎么读？ - this character how pronounce?
+
+动作快一点儿火车要开了 - movement quick a bit train going to to leave
+
+你打了电话给我吗？我没听见
+
+我的手机没电了 - my cellphone ran out of battery
+
+这是我第一次来这儿� - this iis my first time to come here
+
+我有一个弟弟和一个妹妹
+
+我请你吃完饭，时间和地点拟你定
+
+你今年多大了
+
+请问从这儿到机场有多远
+
+你今天穿的衣服真好看！ - the clothes you're wearing today are really nice!
+
+你能帮我找一下我哦的手机吗 - can you hely me look for my phone?
+
+我们办小时后在你家见面吧 we half a hour later at your home to meet
+
+我想买一张中国地图 - i want to buy one chinese map
+
+我们找个地方吃饭吧 - we to find place to eat
+
+我没去过北京。
+
+他很想得到这个工作 - he really wants this job
+
+你能出来一下吗��？莫我有�事跟你说。 - can you come out for a little bit? i have something to tell you.
+
+你�不有用�谢�别�别忘了给我打电话
+
+我下课后在楼下等你 i to finish class after located at downstairs to wait for you 这个房间的地很干净 this one room floor very clean 我请你�你吃晚饭时间和地点你定 i invite youo to eat dinner , time and location you decide. 好�极了, bravo 成交 deal 够了 - enough 因为准备时间真太紧了 - because i had so little prep time
+
+我只能说�谢谢 我家宝宝现在差不多一岁了 my baby is almmost a year old now 首先，中文是方块字 - first of all chinese is a square character �我很想妈妈，有时候我都能看见她 首先是因为我先生他想吃面包� - first of all, because my husband wanted to eat bread 我我我�我觉得他比较关心人，也很有责任心 - i thought he was a caring and respsonsible person 对。好浪漫 - how romantic 暂时没有，�，因为� - not at the moment 我觉得还是有必要的，这样他不会太依赖于我 - i think it is, because that way, he won't be too dependent on me 目前没有，但�但是呢我也想多做一点事情 我正在学中文 我吃惯了中餐
+
+n
+
+首先呢，基本信息, first off, basic info
+
+
+# expressing "a little too" with "有点"
+
+> the adjective after 有点 (yǒudiǎn) expresses an unpleasant or undesirable meaning. you won't hear things like 有点高兴，有点舒服，有点好玩儿 because they are all adjectives with positive connotations.
+
+> 有一点 and 有点 are interchangeable
+
+- 我有点俄
+- 这个菜有点辣
+- 上海的冬天有一点冷
+- 我弟弟有点胖
+-- 今天有点累
+- 这个月公司有点忙
+- 这个地方有点吵，我们走吧
+- 爸爸回来有点晚，妈妈有点不高兴
+- 老师今天有点不舒服，所以没来上课
+
+桌子上的东西是谁的 别玩手机了，对眼睛不好 你看上去非常累 我明天想和你去看电影 我的电脑坏了 下雨了你有伞吗 你能听见我说话吗 你在这儿等我，我去买车票
+
+就可能比人家晚了四五步了 但但�但是其实邮件比较有意思的事 最近热死了， 夏天了嘛 - welcome to summer 我的意思是他不会 同意 pocket list - 这家餐厅在我的口袋名单 i slept a little bit in the car - 我在车上睡了一会儿 drop ini when youre free - 有空来玩儿

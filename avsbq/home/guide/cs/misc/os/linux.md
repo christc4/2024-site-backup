@@ -70,7 +70,7 @@ These are my personal configs
 
 Create file.gsl
 
-<object data="/src/conf/picom-gsl.txt" width="840px" height="320px"></object>
+<object data=/src/conf/picom-gsl.txt></object>
 
 Start picom by including the .gsl file path
 
@@ -115,5 +115,5 @@ To achieve "hold down shift" remove the "-" from `-latchlock`
 
 ### <a name=xclock>xclock</a>
 
-`xclock -digital -strftime "%H:%M"`
+`xclock -digital -strftime "%%H:%%M"`
 
