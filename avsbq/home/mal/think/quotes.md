@@ -258,3 +258,20 @@ You can feed half of Bangladesh with 50p
 Happy [INSERT HOLIDAY]! I am happy all days...
 
 The best time to plant a tree was 20 years ago. The second best time is now
+
+To say we were skint, is like saying it is a little chilly at the North Pole
+
+'They're not taller once you punch them in the stomach and bring the head down' - said very angry small man
+
+If 2 vegans fight, is it still considered a beef?
+
+There's drivers and there's screwdrivers. And you're a screwdriver
+
+I could never be a cattle farmer. The steaks are too high
+
+I drink 8 cans of lager then piss myself, shout incoherently at passers by in a aggressive manner then pass out. All in all a bloody good day out.
+
+the smile never left your face but thelight left your eyes
+
+People who live in glass houses shouldn't pee stones
+

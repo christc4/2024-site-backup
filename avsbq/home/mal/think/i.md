@@ -1,12 +1,7 @@
-<div id=toc>
+# Think
 
-- [Chasing the Dragon](#chasing-the-dragon)
-- [Icarus Paradox](#icarus-paradox)
-- [Janus](#janus)
-- [Ouroboros](#ouroboros)
-- [Paris Derangement Syndrome](#paris-derangement-syndrome)
+[Chasing the Dragon](#chasing-the-dragon), [Icarus Paradox](#icarus-paradox), [Janus](#janus), [Ouroboros](#ouroboros), [Paris Derangement Syndrome](#paris-derangement-syndrome), 
 
-</div>
 
 ### <a name=chasing-the-dragon>Chasing the Dragon</a>
 

@@ -6,22 +6,16 @@ tr:nth-child(odd) { background-color: rgba(128,128,128,0.1)  }
 
 # Harmful food to do
 
-to do add a name
-
-no im not going to give a bs reason about pork, there is a much different reason
-
 <table>
 <tr><th>Harmful things</th><th>Healthy alternatives</th></tr>
-<tr><td>Vegetable oils, Olive oil</td><td>Animal fat, lard, butter</td></tr>
+<tr><td>Vegetable oils, Olive oil</td><td>Animal fat, lard/tallow, butter</td></tr>
 <tr><td>Well-done muscle meat\*<br><em>Grilled, boiled, fried, etc.</em></td><td>Raw liver<br><em>Medium-rare, rare</em></td></tr>
 <tr><td>Grass finished, grain beef</td><td>Grass fed</td></tr>
-<tr><td>Chickens, Pork\*</td><td>Beef</td></tr>
 <tr><td>Cooked fish</td><td>Sashimi</td></tr>
 <tr><td>Farmed fish</td><td>Wild caught</td></tr>
 <tr><td>Pasteurized milk</td><td>Raw milk,kefir</td></tr>
-<tr><td>Margarine, 'spreadable' butter</td><td>Butter&hellip;</td></tr>
-<tr><td>Rice, Bread, Cereal, Pasta</td><td>Seasonal Fruit, Bone broth</td></tr>
-<tr><td>Coffee, tea, 'energy drinks'</td><td>Sleeping more</td></tr>
+<tr><td>Margarine, butter 'spreads'</td><td>Raw butter</td></tr>
+<tr><td>Coffee/tea, 'energy' drinks</td><td>More sleep</td></tr>
 <tr><td>Vegetables</td><td>Fermented Vegetables</td></tr>
 </table>
 

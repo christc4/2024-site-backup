@@ -13,6 +13,12 @@
 - ire
 	- _She was the object of my ire_
 
+### R
+
+- rein
+	- _give a child free-rein_
+- remembrance
+
 ### S
 
 - sacrosanct
@@ -21,3 +27,4 @@
 
 - tack
 	- _To tack on definitions to masculinity_
+

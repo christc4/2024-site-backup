@@ -64,6 +64,36 @@ All art is applied mathematics,
 
 <hr>
 
+## <a name=emacs-shopping-list>Emacs Shopping List</a>
+
+*Custom abbrev.*
+
+- Log most frequently typed words
+- Determine hardest to type and commonmost words, for dvorak layout 
+
+[Most Common Words in English, Wikipedia](//wikipedia.org/wiki/Most_common_words_in_English)
+[Emacs Abbrev Mode Tutorial, Xah Lee](//xahlee.info/emacs/emacs/emacs_abbrev_mode_tutorial.html)
+
+*Frames*
+
+- 3-4 Unbound keys needed 
+- Designated frames have own respective key for frame-switching
+- Each different frame has own color
+
+*Font*
+
+- If \*.md,\*txt,\*html etc. then sans-serif
+
+*Rhyming/Thesaurus/Dictionary*
+
+- Locally stored entries
+
+*Dmenu replacement*
+
+- search/launch from emacs
+
+<hr>
+
 ## <a name=exercise-is-a-myth>Exercise is a Myth</a>
 
 > Carry baby on your back and go on a hike
@@ -145,6 +175,25 @@ Reply
 Lao Tzu.  Here is the quote: 《老子》第八○章：「鄰國相望，雞犬之聲相聞，民至老死不相往來。」
 
 <hr>
+
+## <a name=lard>Lard</a>
+
+2025/1/15
+
+I'd always associated lard with the insult 'lardass'
+
+When I was younger, I'd hear it referenced in TV's as something to cook with, now I hardly hear it
+
+So I decided to buy some, the shopkeep and his two assistants looked at me like as if I was speaking a foreign language when I enquired of its whereabouts
+
+Perhaps it was fate, but the very same spot I had asked the obviously stupid question of "where is the lard", was the cuboid of lard
+
+When I pointed it out to the assistants, they put their hand to their head and said "Ohhh butter. It's butter"
+
+I decided not to correct them of their mistake
+
+<img src=/pix/lard1.avif>
+<img src=/pix/lard2.avif>
 
 ## <a name=man-the-fort>Man the Fort!</a>
 

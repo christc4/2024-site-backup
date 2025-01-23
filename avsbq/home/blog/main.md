@@ -1,12 +1,4 @@
-<div id=t>
-
-- [Agit Prop](#agit-prop) - _agitation propoganda_ 
-- [Autism](#autism) - _mankind's natural state_ 
-- [Blind Spots](#bilnd-spots) - _watch your step_ 
-- [Internet Landmines](#internet-landmines) - _minesweeper... kaBoom_ 
-- [Nobody knows English](#nobody-knows-english) - _speaks in bird_ 
-- [Offloading Parenting](#offloading-parenting) 
-</div>
+# Main blog
 
 <!-- under the auspices of christ-to-do   blog about jpeg xl, chief complaint lobied about webp is when users download it and cant open it... idiot normies,  blog jpeg is dying by 2kphillip https://youtu.be/iuGmG3lrfBM https://youtu.be/dqwbrX8uhEE https://youtu.be/8NmdUcmLFkw -->
 
@@ -114,15 +106,31 @@ Showcase,
 
 ## <a name=nobody-knows-english>Nobody Knows English</a>
 
-2024/10/23
+2025/01/15
 
-An easy gage of one's subject knowledge is their fallacy count
+Words are troublesome.
 
-_Words can encompass a totality or a particular. Words are vehicles for concepts. Words can have one or many referrants_ - as repeated many times by Jay Dyer
+Centuries of medieval scholasticism, academic rigor, cultural revolutions have rendered many words,  _utterly useless_ 
 
-[This](/pix/ww1.webm) video is a star example
+Words can [1]
 
-If you ever find yourself in the midst of a debate remember... if your opponently routinely gets tripped up over English leave.
+- encompass a totality/particular
+- be vehicles for concepts
+- have one or many referrants
+
+Words have become so useless, we need to _justify_ even invoking them, despite many of them being boiled to their lowest common denominator
+
+_"it's X, in the sense that..."_
+
+At the end of the day, words mean whatever the majority and thus the 'brokers of power' determine them to be
+
+Think of these 'sounds' as a rolling ball of bubblegum, which continuously gets new things tacked onto it
+
+## Addendum
+
+This [vid](/pix/ww1.webm) is a funny misunderstanding of 'greatness'
+
+[1] - Thanks J.Dyer
 
 <hr>
 
@@ -165,3 +173,29 @@ You'd be right to point out, not everyone is a physicist, would I be offloading 
  Keep a breadth of wise, knowledgeable friends. Friends that are good at manual work and those that are more scientifically suited, then its okay to offload the hard stuff
 
 With friends, you can vet them, with teachers and tutors not so much. Of course everyone has skeletons in their closet. But I like to think our friends are on our side. 
+
+## <a name=non-foods-and-food>Non-Foods & Food</a>
+
+2025/1/15
+
+Despite their status as the darling of humanities sustenance, many foods are not food.
+
+Whereas raw-meat is the boogeyman,
+
+hadzabe cornmeal they're geetting a bad deal with trading hooney
+
+food that fueled a nation,  yes when there are no wild animals and because you are in a war and lower classes do not hunt...
+
+You will be hardpressed to find organs in a butcher shop atleast in the UK
+
+## <a name=tacked-on-masculinity>Tacked on Masculinity</a>
+
+In nature, men are inherently masculine.
+
+There is nothing masculine about the gym, combat-sports, martial arts, sports, cars etc.
+
+As children, the herd mentality ostracizes or finds you weird for not liking the above, this disillusions men with who they are
+
+Cars require roads, government planning and destruction of nature
+Sports, is something you would do with a child to have fun
+

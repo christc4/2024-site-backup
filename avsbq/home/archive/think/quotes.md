@@ -1,4 +1,3 @@
-
 ## <a name=quotes>Quotes</a>
 
 <img src="/pix/statue-of-liberty-scales-of-justice.avif" style="width:200px; height: auto;">
@@ -72,3 +71,8 @@ Turn knowledge into wisdowm, the unknown into the known
 The bigger your tent the more likely it'l collapse from within
 
 Hunger is a legitmate response apetite is a state of mind
+
+art is meant to disturb the comfortable and comfort the disturbed
+
+Nothing can marry two people closer than a mutual sin in the world's eyes
+

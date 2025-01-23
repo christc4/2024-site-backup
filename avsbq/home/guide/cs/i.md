@@ -1,16 +1,8 @@
-<div id=t>
+# Computer Stuff, guide
 
-- [Core Utils](#core-utils)
-	- [basename](#basename)
-	- [mv](#mv)
-	- [tree](#tree)
-	- [sed](#sed)
-- [imagemagick](#imagemagick)
-- [ffmpeg](#ffmpeg)
-- [sshfs](#sshfs)
-- [tmux](#tmux)
+- [Core Utils](#core-utils) - [basename](#basename) - [mv](#mv)	- [tree](#tree)	- [sed](#sed)
+- [imagemagick](#imagemagick)- [ffmpeg](#ffmpeg)- [sshfs](#sshfs)- [tmux](#tmux)
 
-</div>
 
 lot's to do, sorry for the mess
 
@@ -22,9 +14,10 @@ cmp()
 
 ## <a name=core-utils>Core Utils</a>
 
-### <a name=basename>basenam</a>
+### <a name=basename>basename</a>
 
-basename deletes any prefix ending with the last slash (`/`) character
+`echo "/path/to/file1 /another/path/file2" | xargs -n1 basename`
+
 
 ### <a name=mv>mv</a>
 

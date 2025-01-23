@@ -81,11 +81,20 @@
 - <ruby>从来没有<rt>cóng lái méi yǒu</rt></ruby> - there has never been; has never had; (before a verb) has never
 	- <ruby>我希望我从来没有学过那些事情<rt>wǒ xī wàng wǒ cóng lái méi yǒu xué guò nà xiē shì qing</rt></ruby>
 
-##  <a name=f>f</a>
+##  <a name=F>F</a>
 
 - <ruby>方便<rt>fāngbiàn</rt></ruby>
 	- <ruby>这个手机非常方便<rt>zhè ge shǒu jī fēi cháng fāng biàn</rt></ruby>
+- <ruby>佛教<rt>fójiào</rt></ruby>
+	- <ruby>佛教是宗教还是哲学?<rt>fójiào shì zōngjiào háishi zhéxué?</rt></ruby>
+- 我不知道它什么时候会发生。
 
+##  <a name=G>G</a>
+
+- <ruby>轨迹球<rt>guǐ jì qiú</rt></ruby>
+	- <ruby>轨迹<rt>guǐ jì</rt></ruby> - track, trajectory, orbit, locus  
+	- <ruby>球<rt>qiú</rt> - ball
+		- 如果你的桌面空间不大，那么轨迹球可能比鼠标更方便 - "你更喜欢轨迹球还是鼠标
 
 ##  <a name=j>j</a>
 
@@ -183,6 +192,11 @@
 - <ruby>以后<rt>yǐ hòu</rt></ruby>
 	- <ruby>我吃饭以后去看电影<rt>wǒ chī fàn yǐ hòu qù kàn diàn yǐng</rt></ruby>
 
+## <a name=z>z</a>
+
+- <ruby>智慧<rt>智慧</rt></ruby>
+	- Mia说了佛教是一门大智慧
+
 ### 懂
 
 我不懂
@@ -269,3 +283,13 @@ n
 桌子上的东西是谁的 别玩手机了，对眼睛不好 你看上去非常累 我明天想和你去看电影 我的电脑坏了 下雨了你有伞吗 你能听见我说话吗 你在这儿等我，我去买车票
 
 就可能比人家晚了四五步了 但但�但是其实邮件比较有意思的事 最近热死了， 夏天了嘛 - welcome to summer 我的意思是他不会 同意 pocket list - 这家餐厅在我的口袋名单 i slept a little bit in the car - 我在车上睡了一会儿 drop ini when youre free - 有空来玩儿
+
+
+to sort
+
+修行
+和尚
+滚
+
+一白遮三丑
+

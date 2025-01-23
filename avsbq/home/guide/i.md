@@ -1,7 +1,5 @@
-This is my guide
+# Guide
 
-This is a new line
+These are my trails of rope for when I forget to do something basic
 
-Each new line has its own `<p>` tag
-
-However, what might be strange to some of you `HTML` _puritans_ is the lack of a closing `</p>`
+In theory, it could be useful for you to

@@ -1,12 +1,12 @@
 <p style="font-family: 'Baskerville', serif;">
     Demanding justice for the
-    <img src="/pix/circular-logo.avif" align="center" style="width: 55px; padding: 0 10px;">
+    <img src="/pix/circular-logo.png" align="center" style="width: 55px; padding: 0 10px;">
     indigenous Jumma People of the CHT
 </p>
 
 <marquee>
-<img src=/pix/roll/3.avif>
-<img src=/pix/roll/5.avif>
+<img src=/pix/roll/3.jpg>
+<img src=/pix/roll/5.jpg>
 </marquee>
 
 ## About us

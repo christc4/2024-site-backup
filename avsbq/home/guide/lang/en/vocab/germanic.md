@@ -4,6 +4,10 @@ pang
 
 todo add def.
 
+### A
+
+- allay
+
 ### B
 
 - balk
@@ -27,8 +31,22 @@ todo add def.
 
 - flout
 	- _I flouted the code of conduct_
+- foreboding
+	- this became a foreboding cloud that followed my every move
+- forlorn
+	- _forlorn figures skated by_
 - fraught
-	- _Her solution was fraught with its own problems_
+	- _her solution was fraught with its own problems_
+
+### G
+
+- gawk
+
+### H
+
+- harbinger
+- headway
+	- _the police made no headway_
 
 ### I
 
@@ -38,6 +56,11 @@ todo add def.
 
 - knell
 	-  _death knell_
+
+### L
+
+- leer,leering
+	- _spare me those leering eyes_
 
 ### M
 
@@ -51,6 +74,12 @@ todo add def.
 -  nether, nethermost
 	- _nethermost regions of the earth_
 
+### O
+
+- oft
+	- _it's oft-heard_
+	- _oft wont_
+
 ### Q
 
 - quench
@@ -60,6 +89,8 @@ todo add def.
 
 - rack (wrack)
 	- _racked with guilt_
+- rear
+	- _in the decades since, ebola has reared its ugly head again and again_
 
 ### S
 
@@ -69,14 +100,25 @@ todo add def.
 	- _appointeed in my stead_
 - stilt
 
+### T
+
+- thereof -> of that
+	- _there's been a lot of talk about subsidies... or the lack thereof_
+- thicket
+	- _owls hidden in the dense thicket_
+
 ### W
 
+- wallow
 - wane
 	- _With no sign of waning_
 - ward
-- wiles
+- wean
+- wedge
+	- _drove a wedge_
 - whittle
 	- _whittle away one's life_
+- wiles
 - wrench
 	- _I cannot wrench myself from her_ 
 - writhe
@@ -96,6 +138,53 @@ stalwart
 rend
 smidgen 
 hamper
-https://www.google.com/search?q=what+are+generics+in+programming&oq=what+are+generics++in+progr&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBCDMwMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
-https://medium.com/@roma.gordeev/discover-the-dark-side-of-go-why-this-popular-language-may-sucks-ddd3ab2e0eff#:~:text=Go's%20minimalist%20design%20strips%20away,complex%20data%20structure%20in%20Go.
 
+
+
+## archivas
+
+
+# Revive these words!
+
+- thereabouts 
+- therein -> in that
+- thereby -> by that
+- thereon -> on that
+    - the decision of the speaker of the house thereon shall be final.
+- therewith -> with that
+- thereunder -> under that
+- thereat -> at that
+- thereto -> at that?
+- thereupon -> upon that
+- thereinto -> into that
+
+whereabouts
+wherein -> in which
+whereof -> of which
+whereby -> by which
+whereon -> on which
+wherewith -> with which
+whereunder -> under which
+whereat -> at which
+whereto -> at which
+whereupon -> upon which
+whereinto -> into which
+whereupon he did
+wheresince
+
+hereabout
+herein -> in this document/book (english.mom, remove redundancies,)
+hereof -> of this documentbook
+hereby -> by this document
+hereon/hereupon -> on this/upon this
+herewith -> with this
+hereunder -> under this
+hereat -> at this
+hereto -> at this
+hereinto -> into this
+hereafter -> afte this
+hereinafter -> after in this
+herefrom -> from this
+
+hereinbelow below in this document
+hereinbefore before in this doucment

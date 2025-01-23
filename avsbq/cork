@@ -25,7 +25,7 @@ echo Content-Type: $http_content_type
 
 
 fn sbar {
-	echo -n '<link rel='stylesheet' type='text/css' href='/src/s.css'><meta charset=UTF-8><meta name=viewport content=width=device-width, initial-scale=1><nav><ul><li>'
+	echo -n '<style>nav li{display:inline}nav ul{display:inline;padding:0em}nav ul li a{padding:0.1em 0ex 0.1em 1ex;text-decoration: none;color:#000}img{width:220px}</style><meta charset=utf-8><nav><ul><li>'
 	ls -F home/./$rpafs | sed -e 's,/+\./+,/,g' \
 	-e '/\/i\.(md)$/d' \
 	-e 's/\.(md)$//' -e 's!^home!!' | sort | awk -F/ '
@@ -37,7 +37,7 @@ fn sbar {
             d = "/"
         sub("/$", "") # Strip trailing / for dirs so NF is consistent 
 
-		p(NF, lNF, "<ul> » <span style=color:red>「</span>"); p(lNF, NF, "<span style=color:red>」</span></ul>")
+		p(NF, lNF, "<ul> »「"); p(lNF, NF, "」</ul>")
         lNF = NF
         bname = $NF d
         path = $0 d
@@ -46,11 +46,11 @@ fn sbar {
     #    gsub(/[^\/]$/, "&/", pa) 
 
         if(index(ENVIRON["req_p"] "/", pa) == 1)
-            printf "<li><a href="path" class=\"c\"><i>"bname"</i></a>"
+            printf "<li><a href="path"><i><b>"bname"</b></i></a>"
         else 
             printf "<li><a href="path">"bname"</a>"
     }
-    END { p(lNF, 2, "</ul>"); printf "</ul></nav>" }'
+    END { p(lNF, 2, "</ul>」"); printf "</ul></nav>" }'
 }
 
 fn add {

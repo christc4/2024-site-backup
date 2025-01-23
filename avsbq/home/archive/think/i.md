@@ -1,31 +1,6 @@
-<div id=t>
-Table of Contents
+# Think!
 
-- [Bias](#bias)
-	- [Survivorship Bias](#survivorship-bias)
-- [Effects](#effects)
-	- [Gell-Mann Amnesia](#gell-mann-amnesia)
-	- [Halo](#halo)
-	- [Lindy](#lindy)
-	- [Streisand](#streisand)
-- [Fallacies](#fallacies)
-	- [Appeal to Authority](#appeal-to-authority)
-	- [Quantifier shift](#quantifier-shift)
-- [Laws](#laws)
-	- [Fitts](#fitts)
-	- [Wirths](#wirths)
-- [Dunbar's Number](#dunbars-number)
-- [Homo Economicus](#homo-economicus)
-- [Lemons Problem](#lemons-problem)
-- [Noblesse Oblige](#noblesse-oblige)
-- [Occams Razor](#occams-razor)
-- [Pavlovian Response](#pavlovian-response)
-- [Prisoner's Dilemma](#prisoners-dilemma)
-- [Rube Goldberg Machine](#rube-goldberg-machine)
-- [Savvides](#savvides)
-- [Ship of Theseus](#ship-of-theseus)
-- [Skinner Box](#skinner-box)
-</div>
+- [Bias](#bias)	- [Survivorship Bias](#survivorship-bias) - [Effects](#effects)	- [Gell-Mann Amnesia](#gell-mann-amnesia) - [Halo](#halo) - [Lindy](#lindy) - [Streisand](#streisand)- [Fallacies](#fallacies)	- [Appeal to Authority](#appeal-to-authority)	- [Quantifier shift](#quantifier-shift)- [Laws](#laws)	- [Fitts](#fitts) - [Wirths](#wirths)- [Dunbar's Number](#dunbars-number)- [Homo Economicus](#homo-economicus)- [Lemons Problem](#lemons-problem)- [Noblesse Oblige](#noblesse-oblige)- [Occams Razor](#occams-razor)- [Pavlovian Response](#pavlovian-response)- [Prisoner's Dilemma](#prisoners-dilemma)- [Rube Goldberg Machine](#rube-goldberg-machine)- [Savvides](#savvides)- [Ship of Theseus](#ship-of-theseus)- [Skinner Box](#skinner-box)
 
 ## <a name=bias>Bias</a>
 

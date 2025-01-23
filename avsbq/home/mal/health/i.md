@@ -5,6 +5,7 @@ goitrogens
 Sulforaphane
 https://en.wikipedia.org/wiki/Cruciferous_vegetables
 neurotic
+troponin
 neurofibromatosis
 
 ### _l_

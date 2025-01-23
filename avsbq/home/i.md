@@ -1,13 +1,13 @@
-# Website of Christos
+<img src=/pix/gif/line-birds.gif style=width:400px>
 
-<img src="/pix/gif/line-birds.gif" style="width: 400px;">
+# Christos' personal site
 
-I'm Christos, the 20yo webmaster responsible for this wood-glued site. This is my trench for when my friends bathe in public fountains. Due to spells of despondency several pages may be half-baked.
+I'm the 20yo webmaster responsible for this wood-glued site
 
-<img src="/pix/judas-tree.avif" style="width: 200px">
+This is my trench for when friends bathe in public fountains
 
-<blockquote><i>
-Christ is the only exit from this world. All other exits - sexual rapture, political utopia, economic independence - are but blind alleys in which rot the corpses of many who have tried them - Fr. Seraphim Rose
-</i></blockquote>
+Due to spells of despondency pages may be half-baked
 
-I have A LOT of pictures I want to post here, of tech, nature and misc. - I haven't even scratched the backlog's surface
+<img src=//bauherren.ovh/~christos/christ.avif style=width:100px>
+
+[bauherren.ovh/~christos](//bauherren.ovh/~christos) - [RSS](/src/rss.xml)
