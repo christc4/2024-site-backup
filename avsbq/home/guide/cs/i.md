@@ -1,22 +1,23 @@
 # Computer Stuff, guide
 
-- [Core Utils](#core-utils) - [basename](#basename) - [mv](#mv)	- [tree](#tree)	- [sed](#sed)
+- [utils](#core-utils) - [basename](#basename) - [mv](#mv)	- [tree](#tree)	- [sed](#sed)
 - [imagemagick](#imagemagick)- [ffmpeg](#ffmpeg)- [sshfs](#sshfs)- [tmux](#tmux)
 
 
-lot's to do, sorry for the mess
-
-unix 
-
-join()
-cmp()
+lot's to do, sorry for the mess unix join() cmp()
 
 
-## <a name=core-utils>Core Utils</a>
+## <a name=core-utils>utils</a>
 
 ### <a name=basename>basename</a>
 
 `echo "/path/to/file1 /another/path/file2" | xargs -n1 basename`
+
+### <a name=chown>chown</a>
+
+`chown -R dawn:wheel .`
+
+Changes user and group owenership
 
 
 ### <a name=mv>mv</a>

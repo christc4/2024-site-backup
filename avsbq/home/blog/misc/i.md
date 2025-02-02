@@ -2,8 +2,10 @@
 
 <div id=t>
 
+- [Centralized Vs Decentralized](#centralized-vs-decentralized)
 - [City Love](#city-love)
 - [College Observations](#college-observations)
+- [Death Preparations](#death-preparations)
 - [Eden](#eden)
 - [Exercise is a Myth](#exercise-is-a-myth)
 - [Grandfather Clocks and the Space Age](#grandfather-clocks-and-the-space-age)
@@ -13,6 +15,12 @@
 - [Stagnant Vs Running Water](#stagnant-vs-running-water)
 
 </div>
+
+## <a name=centralized-vs-decentralized>Centralized vs Decentralized</a>
+
+<img src=/pix/centralized-decentralized.avif>
+
+todo
 
 ## <a name=city-love>City Love</a>
 
@@ -47,6 +55,14 @@ What I find even more fascinating, is that as my eyes crawled through some of th
 Maybe this is why I got a B, after sitting the exam two-times
 
 <hr>
+
+## <a name=death-preparations>Death Preparations</a>
+
+- ensure ssh keys, passwords passed to friends
+- proper server transferal
+- hosting fees paid
+
+todo
 
 ## <a name=eden>Eden</a>
 

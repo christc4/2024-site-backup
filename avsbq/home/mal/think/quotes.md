@@ -275,3 +275,6 @@ the smile never left your face but thelight left your eyes
 
 People who live in glass houses shouldn't pee stones
 
+Police Officer: Name? - Frida Goman
+
+Loose lips sink ships

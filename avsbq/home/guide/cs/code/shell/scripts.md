@@ -2,7 +2,6 @@
 
 # Shell Scripts
 
-<div id="toc">
 Table of Contents
 
 - [One-Liners](#one-liners)
@@ -21,7 +20,6 @@ Table of Contents
 	- [v2](#fuzzy-edit2)
 - [Generic git-push](#git-push1)
 - [JSON generate](#json-generate)
-</div>
 
 ##  <a name='one-liners'>One-Liners</a>
 

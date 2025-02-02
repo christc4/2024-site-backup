@@ -19,7 +19,7 @@ todo add def.
 - briar
 	- prickly scarmbling shrubs, especially wild roses
 - brunt
-	- _She bore the brunt of their insults_ 
+	- _she bore the brunt of their insults_ 
 
 ### D
 
@@ -54,6 +54,9 @@ todo add def.
 
 ### K
 
+- keel
+	- verb: (of a boat/ship) turn over; capsize
+	
 - knell
 	-  _death knell_
 
@@ -89,13 +92,16 @@ todo add def.
 
 - rack (wrack)
 	- _racked with guilt_
-- rear
-	- _in the decades since, ebola has reared its ugly head again and again_
+- rue
+	- _rue the day_
 
 ### S
 
 - slake
 	- _slake one's thirst_
+- skittish
+- slovenly
+	- _fat and slovenly_
 - stead
 	- _appointeed in my stead_
 - stilt

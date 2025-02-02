@@ -6,8 +6,9 @@ I'm the 20yo webmaster responsible for this wood-glued site
 
 This is my trench for when friends bathe in public fountains
 
-Due to spells of despondency pages may be half-baked
+I rarely update my site anymore because of [painting](//bauherren.ovh/~christos/ico) 
 
-<img src=//bauherren.ovh/~christos/christ.avif style=width:100px>
+<img src=//bauherren.ovh/~christos/christ2.jpg style=width:100px>
+<img src=/pix/smiley.svg style=width:100px>
 
-[bauherren.ovh/~christos](//bauherren.ovh/~christos) - [RSS](/src/rss.xml)
+Anything of importance -> [bauherren.ovh/~christos](//bauherren.ovh/~christos) 

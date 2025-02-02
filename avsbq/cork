@@ -46,7 +46,7 @@ fn sbar {
     #    gsub(/[^\/]$/, "&/", pa) 
 
         if(index(ENVIRON["req_p"] "/", pa) == 1)
-            printf "<li><a href="path"><i><b>"bname"</b></i></a>"
+            printf "<li><a href="path" style=\"text-shadow: 0 0 .9em red;\"><i><b>"bname"</b></i></a>"
         else 
             printf "<li><a href="path">"bname"</a>"
     }

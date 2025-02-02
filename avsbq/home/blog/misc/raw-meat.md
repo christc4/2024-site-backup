@@ -22,3 +22,15 @@ The water-soluble B vitamins such as B12 are heat sensitive
 The studies pulled out by Vegans and Vegetarians, in which meat eaters are shown to be nutrient deficient stems precisely because of this
 korea has yukhoe
 ethiopa
+
+mr lazarus said to eat vegetables
+
+yt said to strect everyday
+
+if only i had raw milk liverr egg yolk
+
+nawshad six foot or so
+
+i was drinking skimmed milk before school hittingg weights
+
+my gym instructo, god bless him was short
