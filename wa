@@ -1,0 +1,15 @@
+#!/bin/sh
+
+convert_avif_to_jpg() {
+    input_file="$1"
+    output_file="${input_file%.avif}.jpg"
+    convert "$input_file" "$output_file"
+}
+
+find . -type f -name '*.avif' -exec sh -c '
+    for file; do
+        output_file="${file%.avif}.jpg"
+        convert "$file" "$output_file"
+    done
+' sh {} +
+echo "Conversion complete!"

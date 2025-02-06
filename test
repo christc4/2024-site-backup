@@ -1,0 +1,53 @@
+#!/bin/sh
+
+# Find all files, process and remove file extensions
+find . -type f -name "*.md" ! -name '.*' | sed 's|^\./||; s|\.md$||' | awk '
+
+BEGIN {
+    print "pix/"
+    prev_depth = 0
+    prev_dir = ""
+}
+
+{
+    # Count the number of slashes to determine directory depth
+    depth = gsub("/", "/");
+
+    # Handle directories: first print the directory, then files
+    if (depth > prev_depth) {
+        # Directory with files
+        if (prev_dir != "") {
+            print "   " files;
+        }
+        # Start new directory
+        for (i = 0; i < depth; i++) {
+            printf "   ";  # Indent for directories
+        }
+        print $0 "/";   # Print directory with slash
+        files = ""      # Clear files for the new directory
+    } else if (depth == prev_depth) {
+        # Same level, print file
+        print "   " files;
+        files = ""      # Clear file list to handle the next directory
+    }
+    if (depth == prev_depth) {
+        # Print files in the same line
+        if (files != "") {
+            files = files "   " $0;
+        } else {
+            files = $0;
+        }
+    }
+
+    prev_depth = depth
+    prev_dir = $0
+}
+
+END {
+    if (files != "") {
+        print "   " files;   # Print last directory's files
+    }
+    print "</pre>"
+}
+'
+
