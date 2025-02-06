@@ -22,7 +22,7 @@ fn run {
 
 
 fn sbar {
-	echo -n '<!DOCTYPE HTML><html><head><link rel='icon' href='/pix/circular-logo.avif'><link rel='stylesheet' type='text/css' href='//jpnuk.org.uk/src/s.css'> <meta charset=UTF-8><meta name=viewport content=width=device-width, initial-scale=1></head><body><header><h1>GAIPCHT - <span>Global Association for Indigenous Peoples of the Chittagong Hill Tracts</span></h1></header></nav></header><nav><ul><li><a href=/>home</a>'
+	echo -n '<!DOCTYPE HTML><html><head><link rel='icon' href='/pix/circular-logo.avif'><link rel='stylesheet' type='text/css' href='//jpnuk.org.uk/src/s.css'> <meta charset=UTF-8><meta name=viewport content=width=device-width, initial-scale=1></head><body><header><h1>GAIPCHT - <span>Global Association for Indigenous Peoples of the Chittagong Hill Tracts</span></h1></header></nav></header><nav><ul><li><a href=/><b>home</b></a>'
 	ls -F home/./$rpafs | sed -e 's,/+\./+,/,g' \
 	-e '/\/i\.(md)$/d' \
 	-e 's/\.(md)$//' -e 's!^home!!' | sort | awk -F/ '
@@ -32,10 +32,10 @@ fn sbar {
 		sub("/$", "", $0)
 		p(NF, lNF, "<ul>» 「"); p(lNF, NF, "」<br></ul>")
 		lNF = NF; fp = $NF
-		printf "<li><a href=\%s\>%s</a>", $0, fp
+		printf "<li><a href=\%s\><b>%s</b></a>", $0, fp
 	}
 
-	END { p(lNF, 2, "</ul>"); printf "</nav></small><article>" }'}
+	END { p(lNF, 2, "</ul>"); printf "</nav><hr></small><article>" }'}
 
 fn add {
 	_l = $1^_^$#$1
